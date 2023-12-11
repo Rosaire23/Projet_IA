@@ -33,7 +33,7 @@ Le projet comporte plusieurs fonctionnalités principales :
 
 ## Auteur
 
-Franciscaine Rosaire (lien_vers_profil_github)
+Franciscaine Rosaire.
 
 ---
 
